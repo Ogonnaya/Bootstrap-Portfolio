@@ -59,6 +59,13 @@ h6 {
     text-align: center;
 }
 
+.profile-container {
+    margin: 20px auto;
+}
+
+.profile {
+    float: left;
+}
 .footer {
     text-align: center;
 }
