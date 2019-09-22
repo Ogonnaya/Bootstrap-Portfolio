@@ -2,4 +2,63 @@ body {
     font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
 
-navbar
+.navbar {
+    height: 84px;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    position: relative;
+    margin: 0 auto;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.mr-auto {
+    margin-right: 0!important;
+}
+
+.bg-light {
+    background-color: white!important;
+}
+
+.jumbotron {
+    height: 300px;
+    text-align: center;
+    background-color: white;
+    padding: 75px;
+    margin: 16px 0px;
+}
+
+.display-4 {
+    font-weight: bold;
+    vertical-align: middle;
+    font-size: 48px;
+}
+
+.card {
+    margin-bottom: 4%;
+}
+
+.media {
+    height: auto;
+    width: auto;
+    margin: 2% 0%;
+    text-align: left;
+}
+
+.media-body {
+    align-self: center;
+}
+
+h6 {
+    font-size: 16px;
+}
+
+.contact-info {
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
